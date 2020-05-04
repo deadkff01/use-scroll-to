@@ -1,11 +1,18 @@
 {
-  "version": "0.3.0",
+  "version": "0.5.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
     "src"
+  ],
+  "keywords": [
+    "scroll",
+    "useScroll",
+    "useScrollHook",
+    "useScrollTo",
+    "scroll hook"
   ],
   "engines": {
     "node": ">=10"

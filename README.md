@@ -1,4 +1,4 @@
-# use-scroll-top
+# use-scroll-to
 
 A type safe React hook to handle scroll actions
 
